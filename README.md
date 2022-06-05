@@ -1,2 +1,7 @@
-![profile](https://user-images.githubusercontent.com/99381741/172046644-ea116c58-4912-4312-9882-51cb5b2c14b7.jpeg)
-Hi there, I'm Chirag Ferwani
+My name is Chirag Ferwani 👋
+🔭 I’m currently working at ... Pimpri Chinchwad Polytechnic
+🤔 I’m looking for help with ... Python
+💬 Ask me about ... Web Development, C, Java
+📫 How to reach me: ... Twitter
+📫 Also on YouTube: ... YouTube
+😄 Pronouns: ... He/Him
