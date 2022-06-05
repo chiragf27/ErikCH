@@ -1,7 +1,3 @@
-My name is Chirag Ferwani 👋
-🔭 I’m currently working at ... Pimpri Chinchwad Polytechnic
-🤔 I’m looking for help with ... Python
-💬 Ask me about ... Web Development, C, Java
-📫 How to reach me: ... Twitter
-📫 Also on YouTube: ... YouTube
-😄 Pronouns: ... He/Him
+![Black Modern Digital Marketing Banner ](https://user-images.githubusercontent.com/99381741/172047501-a4ba01a4-4f9a-4fec-bd42-93bb7e53d1e3.png)
+Reach me out on my Social Media Profiles:
+https://linktr.ee/chiragferwani
