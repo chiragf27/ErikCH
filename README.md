@@ -4,7 +4,7 @@
 
 ### Hi there, I am Chirag Ferwani 👋
 [![Linkedin Badge](https://img.shields.io/badge/-chiragferwani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chiragferwani/)](https://www.linkedin.com/in/chiragferwani/)
-[![Gmail Badge](https://img.shields.io/badge/-rajaprerak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajaprerak@gmail.com)](mailto:chiragferwani@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-chiragferwani@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chiragferwani@gmail.com)](mailto:chiragferwani@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://rajaprerak.github.io/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
