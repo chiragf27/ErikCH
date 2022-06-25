@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-chiragferwani@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chiragferwani@gmail.com)](mailto:chiragferwani@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://rajaprerak.github.io/)
-- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
+- ⚡ Fun fact: The computer was born to solve the problems that did not exist before. 🤓
 
 💻 **Things I love**
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
