@@ -17,10 +17,10 @@ Hi there, I'm Chirag Ferwani 👋
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=chiragf27&icon=5&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=chiragf27&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/chiragf27) 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=chiragf27.chiragf27)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
