@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi there, I'm Chirag Ferwani 👋
-<br>🎯 Portfolio website: [Portfolio](https://chiragferwani.netlify.app/)
+<br>🎯 Portfolio website: [Portfolio](https://chiragferwani.vercel.app/)
 <br>Fun Fact: The computer was born to solve problems that did not exist before! 🤓<br>💻 Things I love<br>Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>Artificial Intelligence 👨‍💻<br>Machine Learning 🧐<br>Data Science 😬
 
 
