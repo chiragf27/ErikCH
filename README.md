@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [chiragferwani.vercel.app](chiragferwani.vercel.app)
 
-- 📝 I regularly write articles on [https://chiragferwani.blogspot.com/](https://chiragferwani.blogspot.com/)
+- 📝 I regularly write articles on [Blogspot](https://chiragferwani.blogspot.com/)
 
 - 💬 Ask me about **Java, Javascript, C, C++, React, Flutter**
 
