@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
 
-- 👨‍💻 All of my projects are available at [chiragferwani.vercel.app](chiragferwani.vercel.app)
+- 👨‍💻 All of my projects are available at [chiragferwani.vercel.app](https://chiragferwani.vercel.app/)
 
 - 📝 I regularly write articles on [Blogspot](https://chiragferwani.blogspot.com/)
 
